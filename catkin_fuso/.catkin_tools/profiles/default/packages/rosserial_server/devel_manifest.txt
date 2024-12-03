@@ -1,0 +1,9 @@
+rosserial/rosserial_server
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/cmake.lock /home/robofeiathome/catkin_fuso/devel/./cmake.lock
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/lib/librosserial_server_lookup.so /home/robofeiathome/catkin_fuso/devel/lib/librosserial_server_lookup.so
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc /home/robofeiathome/catkin_fuso/devel/lib/pkgconfig/rosserial_server.pc
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/lib/rosserial_server/serial_node /home/robofeiathome/catkin_fuso/devel/lib/rosserial_server/serial_node
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/lib/rosserial_server/udp_socket_node /home/robofeiathome/catkin_fuso/devel/lib/rosserial_server/udp_socket_node
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/lib/rosserial_server/socket_node /home/robofeiathome/catkin_fuso/devel/lib/rosserial_server/socket_node
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake /home/robofeiathome/catkin_fuso/devel/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig.cmake /home/robofeiathome/catkin_fuso/devel/share/rosserial_server/cmake/rosserial_serverConfig.cmake

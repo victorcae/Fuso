@@ -1,0 +1,8 @@
+rosserial/rosserial_vex_v5
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_vex_v5/cmake.lock /home/robofeiathome/catkin_fuso/devel/./cmake.lock
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_vex_v5/lib/python3/dist-packages/rosserial_vex_v5/__init__.py /home/robofeiathome/catkin_fuso/devel/lib/python3/dist-packages/rosserial_vex_v5/__init__.py
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_vex_v5/lib/pkgconfig/rosserial_vex_v5.pc /home/robofeiathome/catkin_fuso/devel/lib/pkgconfig/rosserial_vex_v5.pc
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_vex_v5/share/rosserial_vex_v5/make_libraries.py /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_v5/make_libraries.py
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_vex_v5/share/rosserial_vex_v5/cmake.lock /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_v5/cmake.lock
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_vex_v5/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config-version.cmake /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config-version.cmake
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_vex_v5/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config.cmake /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config.cmake

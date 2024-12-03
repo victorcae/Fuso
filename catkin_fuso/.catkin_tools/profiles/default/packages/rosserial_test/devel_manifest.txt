@@ -1,0 +1,5 @@
+rosserial/rosserial_test
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_test/cmake.lock /home/robofeiathome/catkin_fuso/devel/./cmake.lock
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_test/lib/pkgconfig/rosserial_test.pc /home/robofeiathome/catkin_fuso/devel/lib/pkgconfig/rosserial_test.pc
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig-version.cmake /home/robofeiathome/catkin_fuso/devel/share/rosserial_test/cmake/rosserial_testConfig-version.cmake
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig.cmake /home/robofeiathome/catkin_fuso/devel/share/rosserial_test/cmake/rosserial_testConfig.cmake

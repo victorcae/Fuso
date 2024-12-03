@@ -1,0 +1,1 @@
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_mbed/lib/pkgconfig/rosserial_mbed.pc

@@ -1,0 +1,6 @@
+Symlinking /home/robofeiathome/catkin_fuso/devel/lib/python3/dist-packages/rosserial_vex_cortex/__init__.py
+Symlinking /home/robofeiathome/catkin_fuso/devel/lib/pkgconfig/rosserial_vex_cortex.pc
+Symlinking /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_cortex/make_libraries.py
+Symlinking /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_cortex/cmake.lock
+Symlinking /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig-version.cmake
+Symlinking /home/robofeiathome/catkin_fuso/devel/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig.cmake

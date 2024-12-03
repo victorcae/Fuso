@@ -1,0 +1,1 @@
+/home/robofeiathome/catkin_fuso/devel/.private/fuso_pkg/share/fuso_pkg/cmake/fuso_pkgConfig-version.cmake

@@ -1,0 +1,5 @@
+fuso_pkg
+/home/robofeiathome/catkin_fuso/devel/.private/fuso_pkg/cmake.lock /home/robofeiathome/catkin_fuso/devel/./cmake.lock
+/home/robofeiathome/catkin_fuso/devel/.private/fuso_pkg/lib/pkgconfig/fuso_pkg.pc /home/robofeiathome/catkin_fuso/devel/lib/pkgconfig/fuso_pkg.pc
+/home/robofeiathome/catkin_fuso/devel/.private/fuso_pkg/share/fuso_pkg/cmake/fuso_pkgConfig.cmake /home/robofeiathome/catkin_fuso/devel/share/fuso_pkg/cmake/fuso_pkgConfig.cmake
+/home/robofeiathome/catkin_fuso/devel/.private/fuso_pkg/share/fuso_pkg/cmake/fuso_pkgConfig-version.cmake /home/robofeiathome/catkin_fuso/devel/share/fuso_pkg/cmake/fuso_pkgConfig-version.cmake

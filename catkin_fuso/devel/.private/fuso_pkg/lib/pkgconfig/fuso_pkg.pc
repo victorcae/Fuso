@@ -1,0 +1,8 @@
+prefix=/home/robofeiathome/catkin_fuso/devel/.private/fuso_pkg
+
+Name: fuso_pkg
+Description: Description of fuso_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

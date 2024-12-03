@@ -1,0 +1,2 @@
+rosserial/rosserial
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial/cmake.lock /home/robofeiathome/catkin_fuso/devel/./cmake.lock

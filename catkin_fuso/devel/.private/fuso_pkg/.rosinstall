@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robofeiathome/catkin_fuso/devel/.private/fuso_pkg/setup.sh

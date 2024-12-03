@@ -1,0 +1,6 @@
+devel_space: /home/robofeiathome/catkin_fuso/devel
+install: false
+install_space: /home/robofeiathome/catkin_fuso/install
+profile: default
+source_space: /home/robofeiathome/catkin_fuso/src
+workspace: /home/robofeiathome/catkin_fuso

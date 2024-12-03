@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/robofeiathome/catkin_fuso/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/robofeiathome/catkin_fuso/src/fuso_pkg/include/**",
+        "/home/robofeiathome/catkin_fuso/src/rosserial/rosserial_server/include/**",
+        "/home/robofeiathome/catkin_fuso/src/rosserial/rosserial_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

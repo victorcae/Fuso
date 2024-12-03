@@ -1,0 +1,1 @@
+/home/robofeiathome/catkin_fuso/devel/.private/rosserial_arduino/share/roseus/ros/rosserial_arduino/manifest.l
